@@ -1,0 +1,6 @@
+1、线程的3种创建方式
+创建一个类继承Thread ，然后new
+new Thread(()->{});内部类runable
+threadPoolExecutor。 线程池
+callAble&Feature
+2、
